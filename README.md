@@ -1,4 +1,4 @@
-# StackBlitz - The Online IDE for Web Applications
+# CodeLearn using StackBlitz - The Online IDE for Web Applications
 [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/stackblitz) [![Donate on Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/stackblitz)
 
 Welcome to the StackBlitz Github repo!
